@@ -1,5 +1,6 @@
 # IBM-Applied-Data-Science-Capstone
 
+## Introduction
 ### Sending manned missions to Space by making it affordable to everyone.
 ### SpaceX can do this with relatively inexpensive using rocket launches.
 ### Savings is because SpaceX can reuse the first stage(Falcon 9).
@@ -7,4 +8,13 @@
 ### To determine the launch cost, check whether the first stage will land.
 ### To build a dashboard for the team to understand the first stage.
 ### Train a machine learning model to predict if SpaceX will reuse the first stage.
-<img width="1615" height="602" alt="image" src="https://github.com/user-attachments/assets/ace93f7e-d5fd-4a26-979e-d3401e5a87c6" />
+
+## Executive Summary
+### Collecting the SpaceX data and wrangling them.
+### Do exploratory data analysis with SQL and visualization
+### Do one-hot-encoding for categorical variable if present
+### Uses folium with Circle, Marker, MasterClusters objects to visualize the launch sites on the map
+### Use of dashboard to analyze which payload (s) has the highest launch success rate using range slider, site having the highest success rate etc with the help of callback function mechanism.
+### Apply the machine learning  algorithms and find the best moel as Logistic Regression
+### The results shows that we can reuse first stage data.
+
